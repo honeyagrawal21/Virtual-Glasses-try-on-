@@ -1,7 +1,7 @@
 # Virtual-Glasses-try-on-
 Virtual try-on systems for glasses have gained significant attention due to their potential to
 revolutionize the shopping experience by allowing users to virtually try on different styles of
-glasses before making a purchase. This research paper presents a novel approach to building
+glasses before making a purchase. This model presents a novel approach to building
 a virtual glasses try-on system using computer vision and augmented reality techniques. The
 system utilizes a webcam to capture the user's face in real-time and applies a segmentation
 algorithm to remove the background. A face detection algorithm is then used to locate the
